@@ -2,9 +2,9 @@
 
 ## Contents
 - [Image Captioning](Image%20Captioning/)
-     * [adaptive attention](Image-Captioning/using_adaptive_attention.ipynb)
-     * [attention](Image-Captioning/using_attention.ipynb)
-- [Name Classification](Name-Classification)
-- [Sentiment Analysis](Sentiment-Analysis)
-     * [Scripts](Sentiment-Analysis/Scripts)
-     * [Notebook](Sentiment-Analysis/notebook.ipynb)
+     * [adaptive attention](Image%20Captioning/using_adaptive_attention.ipynb)
+     * [attention](Image%20Captioning/using_attention.ipynb)
+- [Name Classification](Name%20Classification)
+- [Sentiment Analysis](Sentiment%20Analysis)
+     * [Scripts](Sentiment%20Analysis/Scripts)
+     * [Notebook](Sentiment%20Analysis/notebook.ipynb)
